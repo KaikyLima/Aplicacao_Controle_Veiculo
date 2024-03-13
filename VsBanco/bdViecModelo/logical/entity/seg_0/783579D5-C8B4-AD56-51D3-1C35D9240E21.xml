@@ -40,20 +40,6 @@
 <dataTypeSize>100</dataTypeSize>
 <ownDataTypeParameters>100,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="idVeiculo" id="8FEE7F44-FF21-FC78-0BF1-6CF73934414F">
-<createdBy>kaiky_dneyfo2</createdBy>
-<createdTime>2024-03-12 23:35:54 UTC</createdTime>
-<generatorID>C7C5D789-AE08-FDA4-46C1-E013F05739E4</generatorID>
-<ownerDesignName>bdViecModelo</ownerDesignName>
-<engineerTo>
-<item key="8D5B139B-C4D2-8C89-BAED-D9BA601923E7" value="true"/>
-</engineerTo>
-<referedAttribute>5706153C-D764-CB60-4203-056135042652</referedAttribute>
-<useDomainConstraints>false</useDomainConstraints>
-<use>1</use>
-<logicalDatatype>LOGDT019</logicalDatatype>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
 <identifier id="E3AFE50F-A6DE-5E97-FEE8-88A72B5BAB0A" name="CLASSIFICACAO PK">

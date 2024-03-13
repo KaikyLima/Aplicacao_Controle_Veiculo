@@ -40,20 +40,6 @@
 <dataTypeSize>100</dataTypeSize>
 <ownDataTypeParameters>100,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="idVeiculo" id="DEC32848-8B77-FBF1-A457-FD713DF279E8">
-<createdBy>kaiky_dneyfo2</createdBy>
-<createdTime>2024-03-12 23:35:32 UTC</createdTime>
-<generatorID>CDEF7929-3914-1443-0763-AE929D214F74</generatorID>
-<ownerDesignName>bdViecModelo</ownerDesignName>
-<engineerTo>
-<item key="8D5B139B-C4D2-8C89-BAED-D9BA601923E7" value="true"/>
-</engineerTo>
-<referedAttribute>5706153C-D764-CB60-4203-056135042652</referedAttribute>
-<useDomainConstraints>false</useDomainConstraints>
-<use>1</use>
-<logicalDatatype>LOGDT019</logicalDatatype>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
 <identifier id="9A06C92C-E025-607B-F195-2C715A759AF1" name="TPVEICULO PK">
